@@ -64,8 +64,11 @@
   ],
   "targetAudience": {
   "UG":[
-    "Undergraduate students and Post-graduate students of of Electronics communication Engineering"
-  ]
+    "Undergraduate students students of of Electronics communication Engineering"
+  ],
+    "PG": [
+      "Post-graduate students of of Electronics communication Engineering"
+    ]
   },
     
   "objective": "The objective of this lab is to perform experiments in the Analog Electronics labs virtually, and yet have close to real life experience. The platform is focused on learning aspects as much as on performing the experiments",
