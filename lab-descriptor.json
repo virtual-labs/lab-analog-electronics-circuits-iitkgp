@@ -1,80 +1,80 @@
 {
-    "broadArea": {
-        "name": "Electronics and Communication Engineering",
-        "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
-        "code": "ECE"
+  "broadArea": {
+    "name": "Electronics and Communication Engineering",
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
+  },
+  "lab": "Analog Electronics Circuits",
+  "lab_display_name": "Analog Electronics Circuits",
+  "phase": 3,
+  "collegeName": "IITKGP",
+  "baseUrl": "aec-iitkgp.vlabs.ac.in",
+  "introduction": [
+    "The Virtual Labs Project started as an initiative from the Ministry of Human Resource and Development (MHRD) to create online interactive media which would help students learn difficult concepts in various domains. As a part of this initiative, a virtual laboratory for Analog Electronics Circuit has been developed.",
+    "Virtual Labs for Teachers Virtual Labs has the potential to bring paradigm shift in the way courses are taught today.For example, the teachers can take it to the class and demonstrate live examples while they are teaching difficult concepts to the students. Many difficult concepts are already integrated in the provided course icurriculum. It can also complement the existing labs, wherein the students can be given assignments before or after the lab. The teacher can actively coordinate that effort to enable inclusive learning for all the students.",
+    "Virtual Labs for Students Students will get a feel of the real lab, as all lab equipment, components and lab behavior would be mimicked in the system. Extensive 2D animations is used to provide real like look and feel to the students. The instruments and components are modeled accurately to provide real like response. Interactive animations are also provided at a lot of places to enable student learning.",
+    "Key features of Virtual Labs",
+    "- Available 24X7. So students can learn difficult concepts at their own pace.",
+    "- Real looking components, to give the user a feel of the real laboratory.",
+    "- Step by step wizard to guide the students through the experiments."
+  ],
+  "experiments": [
+    {
+      "name": "Familiarisation with Oscilloscope and Function Generator",
+      "short-name": "oscilloscope",
+      "repo": "https://github.com/virtual-labs/exp-oscilloscope-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "lab": "Analog Electronics Circuits",
-    "lab_display_name": "Analog Electronics Circuits",
-    "phase": 3,
-    "collegeName": "IITKGP",
-    "baseUrl": "ace-iitkgp.vlabs.ac.in",
-    "introduction": [
-        "The Virtual Labs Project started as an initiative from the Ministry of Human Resource and Development (MHRD) to create online interactive media which would help students learn difficult concepts in various domains. As a part of this initiative, a virtual laboratory for Analog Electronics Circuit has been developed.",
-        "Virtual Labs for Teachers Virtual Labs has the potential to bring paradigm shift in the way courses are taught today.For example, the teachers can take it to the class and demonstrate live examples while they are teaching difficult concepts to the students. Many difficult concepts are already integrated in the provided course icurriculum. It can also complement the existing labs, wherein the students can be given assignments before or after the lab. The teacher can actively coordinate that effort to enable inclusive learning for all the students.",
-        "Virtual Labs for Students Students will get a feel of the real lab, as all lab equipment, components and lab behavior would be mimicked in the system. Extensive 2D animations is used to provide real like look and feel to the students. The instruments and components are modeled accurately to provide real like response. Interactive animations are also provided at a lot of places to enable student learning.",
-        "Key features of Virtual Labs",
-        "- Available 24X7. So students can learn difficult concepts at their own pace.",
-        "- Real looking components, to give the user a feel of the real laboratory.",
-        "- Step by step wizard to guide the students through the experiments."
-    ],
-    "experiments": [
-        {
-            "name": "Familiarisation with Oscilloscope and Function Generator",
-            "short-name": "oscilloscope",
-            "repo": "https://github.com/virtual-labs/exp-oscilloscope-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Active Filter",
-            "short-name": "active-filter",
-            "repo": "https://github.com/virtual-labs/exp-active-filter-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Monostable Multivibrator using IC 555",
-            "short-name": "monostable-multivibrator",
-            "repo": "https://github.com/virtual-labs/exp-monostable-multivibrator-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Astable Multivibrator using IC 555",
-            "short-name": "astable-multivibrator",
-            "repo": "https://github.com/virtual-labs/exp-astable-multivibrator-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Schmitt Trigger",
-            "short-name": "schmitt-trigger",
-            "repo": "https://github.com/virtual-labs/exp-schmitt-trigger-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Frequency Response of CS Amplifier",
-            "short-name": "cs-amplifier",
-            "repo": "https://github.com/virtual-labs/exp-cs-amplifier-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Digital to Analog Converter",
-            "short-name": "digital-analog-converter",
-            "repo": "https://github.com/virtual-labs/exp-digital-analog-converter-iitkgp",
-            "tag": "v1.0.0",
-            "deploy": true
-        }
-    ],
-    "targetAudience": "Undergraduate students and Post-graduate students of of Electronics communication Engineering",
-    "objective": "The objective of this lab is to perform experiments in the Analog Electronics labs virtually, and yet have close to real life experience. The platform is focused on learning aspects as much as on performing the experiments",
-    "courseAlignment": {
-        "description": "The lab contents are chosen such that it covers the syllabi of the Analog Electronics Circuits course's of various universities",
-        "universities": [
-            "IIT Kharagpur"
-        ]
+    {
+      "name": "Active Filter",
+      "short-name": "active-filter",
+      "repo": "https://github.com/virtual-labs/exp-active-filter-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Monostable Multivibrator using IC 555",
+      "short-name": "monostable-multivibrator",
+      "repo": "https://github.com/virtual-labs/exp-monostable-multivibrator-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Astable Multivibrator using IC 555",
+      "short-name": "astable-multivibrator",
+      "repo": "https://github.com/virtual-labs/exp-astable-multivibrator-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Schmitt Trigger",
+      "short-name": "schmitt-trigger",
+      "repo": "https://github.com/virtual-labs/exp-schmitt-trigger-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Frequency Response of CS Amplifier",
+      "short-name": "cs-amplifier",
+      "repo": "https://github.com/virtual-labs/exp-cs-amplifier-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Digital to Analog Converter",
+      "short-name": "digital-analog-converter",
+      "repo": "https://github.com/virtual-labs/exp-digital-analog-converter-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": "Undergraduate students and Post-graduate students of of Electronics communication Engineering",
+  "objective": "The objective of this lab is to perform experiments in the Analog Electronics labs virtually, and yet have close to real life experience. The platform is focused on learning aspects as much as on performing the experiments",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the Analog Electronics Circuits course's of various universities",
+    "universities": [
+      "IIT Kharagpur"
+    ]
+  }
 }
