@@ -16,7 +16,7 @@
       "name": "Familiarisation with Oscilloscope and Function Generator",
       "short-name": "oscilloscope",
       "repo": "https://github.com/virtual-labs/exp-oscilloscope-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -44,7 +44,7 @@
       "name": "Schmitt Trigger",
       "short-name": "schmitt-trigger",
       "repo": "https://github.com/virtual-labs/exp-schmitt-trigger-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
