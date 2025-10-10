@@ -23,7 +23,7 @@
       "name": "Active Filter",
       "short-name": "active-filter",
       "repo": "https://github.com/virtual-labs/exp-active-filter-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -37,7 +37,7 @@
       "name": "Astable Multivibrator using IC 555",
       "short-name": "astable-multivibrator",
       "repo": "https://github.com/virtual-labs/exp-astable-multivibrator-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
