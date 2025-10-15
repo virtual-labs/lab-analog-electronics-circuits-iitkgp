@@ -23,7 +23,7 @@
       "name": "Active Filter",
       "short-name": "active-filter",
       "repo": "https://github.com/virtual-labs/exp-active-filter-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
