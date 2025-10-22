@@ -30,14 +30,14 @@
       "name": "Monostable Multivibrator using IC 555",
       "short-name": "monostable-multivibrator",
       "repo": "https://github.com/virtual-labs/exp-monostable-multivibrator-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Astable Multivibrator using IC 555",
       "short-name": "astable-multivibrator",
       "repo": "https://github.com/virtual-labs/exp-astable-multivibrator-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -51,7 +51,7 @@
       "name": "Frequency Response of CS Amplifier",
       "short-name": "cs-amplifier",
       "repo": "https://github.com/virtual-labs/exp-cs-amplifier-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
