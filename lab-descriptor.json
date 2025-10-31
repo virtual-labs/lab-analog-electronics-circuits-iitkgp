@@ -51,7 +51,7 @@
       "name": "Frequency Response of CS Amplifier",
       "short-name": "cs-amplifier",
       "repo": "https://github.com/virtual-labs/exp-cs-amplifier-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
